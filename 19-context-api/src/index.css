@@ -1,0 +1,40 @@
+html,body{
+  height: 100%;
+  width:100%;
+  margin: 0%;
+  padding: 0%;
+
+}
+/* 
+.nav{
+  display: flex;
+  background-color: aqua;
+  justify-content: space-between;
+  padding: 14px 20px;
+  align-items: center;
+ 
+} */
+
+.light{
+  display: flex;
+  background-color: aquamarine;
+  justify-content: space-between;
+  padding: 14px 20px;
+  align-items: center;
+ 
+}
+.dark{
+
+  display: flex;
+  background-color: rgb(56, 56, 58);
+  justify-content: space-between;
+  padding: 14px 20px;
+  align-items: center;
+ 
+}
+ 
+
+.nav2{
+  display:flex;
+  gap:30px;
+}
